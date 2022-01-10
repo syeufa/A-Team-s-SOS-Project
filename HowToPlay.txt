@@ -1,0 +1,6 @@
+Pemain harus memasukkan huruf S atau O di salah satu kotak kosong yang berada di papan
+Game terdiri dari 2 mode yaitu Player VS Player dan Player VS Computer
+Pemain dapat memilih level board permainan, board Easy berukuran 5x5 dan Medium 7x7
+Apabila pemain berhasil menyusun 'SOS', maka pemain akan mendapatkan 1 poin
+Pemain dengan skor tertinggi akan dinyatakan sebagai pemenang permainan
+Game akan berakhir ketika semua kotak di papan lengkap terisi
